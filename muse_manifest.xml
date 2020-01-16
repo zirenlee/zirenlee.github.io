@@ -1,0 +1,89 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zirenlee.github.io" resolutions="1x" timestamp="1579187712749">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-__.css" crc="3894916011" ref="drawing:info:graphic-design:inatallations:index:photographs"/>
+    <file name="master_b-__.css" crc="334970293" ref="drawing:graphic-design:inatallations:photographs"/>
+    <file name="drawing.css" crc="3921871157" ref="drawing"/>
+    <file name="info.css" crc="119631700" ref="info"/>
+    <file name="graphic-design.css" crc="510546744" ref="graphic-design"/>
+    <file name="inatallations.css" crc="3936319906" ref="inatallations"/>
+    <file name="index.css" crc="4082055744" ref="index"/>
+    <file name="photographs.css" crc="131226695" ref="photographs"/>
+  </folder>
+  <folder name="assets">
+    <file name="poster1-4.pdf" crc="3905215436" seo="true" mt="1551865473000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="drawing:index:graphic-design:photographs:inatallations:info"/>
+    <file name="museutils.js" crc="3803043152" ref="drawing:index:graphic-design:photographs:inatallations:info"/>
+    <file name="whatinput.js" crc="86476730" ref="drawing:index:graphic-design:photographs:inatallations:info"/>
+    <file name="museconfig.js" crc="380897831" ref="drawing:index:graphic-design:photographs:inatallations:info"/>
+    <file name="jquery.watch.js" crc="99325471" ref="drawing:index:graphic-design:photographs:inatallations:info"/>
+    <file name="require.js" crc="4157109226" ref="drawing:index:graphic-design:photographs:inatallations:info"/>
+  </folder>
+  <folder name="images">
+    <file name="cd7d1254c4ef4bd4a602589eaeb793a3d_18248049_190607_0190拷貝468x951.jpg" crc="3906849723" seo="true" ref="drawing">
+      <caption webpage="drawing" alt=""/>
+    </file>
+    <file name="cd7d1254c4ef4bd4a602589eaeb793a3d_18248049_190607_0514拷貝470x648.jpg" crc="283282844" seo="true" ref="drawing">
+      <caption webpage="drawing" alt=""/>
+    </file>
+    <file name="cd7d1254c4ef4bd4a602589eaeb793a3d_18248049_190607_0209拷貝.jpg" crc="509156196" seo="true" ref="drawing">
+      <caption webpage="drawing" alt=""/>
+    </file>
+    <file name="cd7d1254c4ef4bd4a602589eaeb793a3d_18248049_190607_0248拷貝.jpg" crc="57261789" seo="true" ref="drawing">
+      <caption webpage="drawing" alt=""/>
+    </file>
+    <file name="cd7d1254c4ef4bd4a602589eaeb793a3d_18248049_190607_0211拷貝447x689.jpg" crc="4290961690" seo="true" ref="drawing">
+      <caption webpage="drawing" alt=""/>
+    </file>
+    <file name="cd7d1254c4ef4bd4a602589eaeb793a3d_18248049_190607_0544-crop-u771.jpg" crc="4249534942" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="海報截圖.png" crc="224261980" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="liquitadd_工作區域 1.jpg" crc="3758402418" seo="true" ref="graphic-design">
+      <caption webpage="graphic-design" alt=""/>
+    </file>
+    <file name="封面.png" crc="160364762" seo="true" ref="inatallations">
+      <caption webpage="inatallations" alt=""/>
+    </file>
+    <file name="img_0840.jpg" crc="4071388944" seo="true" ref="inatallations">
+      <caption webpage="inatallations" alt=""/>
+    </file>
+    <file name="螢幕快照 2020-01-04 上午45212.jpg" crc="471636803" seo="true" ref="inatallations">
+      <caption webpage="inatallations" alt=""/>
+    </file>
+    <file name="img_0943_2.jpg" crc="3915245448" seo="true" ref="inatallations">
+      <caption webpage="inatallations" alt=""/>
+    </file>
+    <file name="cd7d1254c4ef4bd4a602589eaeb793a3d_18248049_190607_0346.jpg" crc="188148776" seo="true" ref="inatallations">
+      <caption webpage="inatallations" alt=""/>
+    </file>
+    <file name="o63753b8c6f26ea8c18e2c176bac4f488_4620693218543566345_190609_0034.jpg" crc="4151581277" seo="true" ref="inatallations">
+      <caption webpage="inatallations" alt=""/>
+    </file>
+    <file name="o63753b8c6f26ea8c18e2c176bac4f488_4620693218543566345_190609_0028.jpg" crc="3848779071" seo="true" ref="inatallations">
+      <caption webpage="inatallations" alt=""/>
+    </file>
+    <file name="img_1454.jpg" crc="4079544478" seo="true" ref="inatallations">
+      <caption webpage="inatallations" alt=""/>
+    </file>
+    <file name="dsc_0589.jpg" crc="4108636571" seo="true" ref="inatallations">
+      <caption webpage="inatallations" alt=""/>
+    </file>
+    <file name="cd7d1254c4ef4bd4a602589eaeb793a3d_18248049_190607_0463.jpg" crc="3974104309" seo="true" ref="inatallations">
+      <caption webpage="inatallations" alt=""/>
+    </file>
+    <file name="o63753b8c6f26ea8c18e2c176bac4f488_4620693218543566345_190609_0013.jpg" crc="4233098468" seo="true" ref="info">
+      <caption webpage="info" alt=""/>
+    </file>
+  </folder>
+  <file name="drawing.html" crc="4038807866" seo="true" mt="1579186024606" redirect="true"/>
+  <file name="index.html" crc="99607120" seo="true" mt="1579185749103" redirect="true"/>
+  <file name="graphic-design.html" crc="115963577" seo="true" mt="1579186029855" redirect="true"/>
+  <file name="photographs.html" crc="211335010" seo="true" mt="1579185862801" redirect="true"/>
+  <file name="inatallations.html" crc="3967945847" seo="true" mt="1579185944235" redirect="true"/>
+  <file name="info.html" crc="43469280" seo="true" mt="1579185749103" redirect="true"/>
+</manifest>
